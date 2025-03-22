@@ -16,13 +16,9 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
-"Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught", 
-"Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit", 
-"Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story", 
-"Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity", 
-"Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife", 
-"Cheat Exposed"
+"Rugby Update", "Rugby News", "Rugby League", "Rugby Union", "Rugby Fans", "Rugby Match", "Rugby Players", 
+ "Rugby Goals", "Rugby Fitness", "Rugby Training", "Rugby World Cup", "Rugby Highlights", "Rugby Tackle", 
+ "Rugby Try", "Rugby Spirit", "Rugby Support", "Rugby Community", "Rugby Life", "Rugby Fun", "Rugby Legends"
 ]
 
 # Fetch Data Button
